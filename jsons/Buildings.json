@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Holodeck",
+    "replaces": "Monument",
+    "uniqueTo": "Ming Empire",
+    "cost": 40,
+    "happiness": 6,
+    "culture": 12,
+    "science": 12,
+    "maintenance": 1,
+    "isNationalWonder": true,
+    "requiredBuildingInAllCities": "Colosseum",
+    "requiredTech": "Horseback Riding"
+  },
+  {
+    "name": "Breeders",
+    "replaces": "Library",
+    "uniqueTo": "Ming Empire",
+    "cost": 80,
+    "happiness": 2,
+    "uniques": [
+      "40% of food is carried over after a new citizen is born"
+    ],
+    "requiredTech": "Engineering"
+  }
+]
